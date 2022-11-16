@@ -6,6 +6,8 @@ Actas de reunión
 Correos de comunicación de reuniones y documentos  
 Historias de usuario y casos de uso  
 
+Código e imágenes Latex
+
 
 ### Cliente:
 
