@@ -7,12 +7,12 @@ Correos de comunicación de reuniones y documentos
 Historias de usuario y casos de uso  
 
 
-###Cliente:
+### Cliente:
 
 Importadora Andina S.A. - Jefe de sistemas - Alcivar García Roberto Carlos  
 
 
-###Miembros del equipo de desarrollo:  
+### Miembros del equipo de desarrollo:  
 
 Auria Perez Eliana Lilibeth
 Loor Barragan Carlos Alejandro
