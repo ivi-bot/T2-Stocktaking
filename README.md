@@ -14,7 +14,7 @@ Importadora Andina S.A. - Jefe de sistemas - Alcivar García Roberto Carlos
 
 ### Miembros del equipo de desarrollo:  
 
-Auria Perez Eliana Lilibeth
-Loor Barragan Carlos Alejandro
-Muñoz Carranza Viviana Stephania
+Auria Perez Eliana Lilibeth  
+Loor Barragan Carlos Alejandro  
+Muñoz Carranza Viviana Stephania  
 Valle Soledispa Kevin Paul
