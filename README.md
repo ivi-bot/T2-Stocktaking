@@ -1,7 +1,7 @@
 # T2-Stocktaking  
 
-Primera versión: Técnicas y metodologías de levantamiento de requerimientos  
-Archivos subidos:  
+## Primera versión: Técnicas y metodologías de levantamiento de requerimientos  
+### Archivos subidos:  
 Actas de reunión  
 Correos de comunicación de reuniones y documentos  
 Historias de usuario y casos de uso  
